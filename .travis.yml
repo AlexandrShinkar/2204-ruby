@@ -1,4 +1,4 @@
-dist: jammy
+dist: xenial
 group: dev
 language: ruby
 ruby:
