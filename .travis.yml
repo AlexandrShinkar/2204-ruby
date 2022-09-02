@@ -1,10 +1,6 @@
 dist: xenial
 group: dev
 language: ruby
-ruby:
-  - 2.7
-  - 3.0
-  - 3.1
 script:
   - ruby --version
   - ruby ./hello.rb
